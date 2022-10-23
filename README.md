@@ -42,7 +42,5 @@ Unity, VR, XR interaction Toolkit
 
 ## Resources/Inspiration
 
-![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png)
-
-![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
+![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png) ![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
 
