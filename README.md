@@ -4,7 +4,7 @@
 
 ## Idea
 
-With a mechanic involving both hands (palms facing each other, and adjusting the distance between both hands), the user shall be able to create primitive geometric gameobjects (for example, spheres, cubes cylinders of different sizes, size is defined by the player through the creation mechanic). 
+With a mechanic involving both hands (palms facing each other, and adjusting the distance between the hands), the user shall be able to create primitive geometric gameobjects (for example, spheres, cubes cylinders of different sizes, size is defined by the player through the creation mechanic). 
 
 ![image](https://user-images.githubusercontent.com/60520606/197388469-9d88a15c-814d-4209-b90b-fc7a1a593bc4.png)
 
