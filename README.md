@@ -2,6 +2,10 @@
 
 # Part 1: Scoping
 
+## Resources/Inspiration
+
+![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png)    ![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
+
 ## Idea
 
 With a mechanic involving both hands (palms facing each other, and adjusting the distance between the hands), the user shall be able to create primitive geometric gameobjects (ex: spheres, cubes, cylinders of different sizes, size is defined by the player through the creation mechanic). 
@@ -40,7 +44,5 @@ These are features that are nice to have, and that you might implement if you ha
 
 Unity, VR, XR interaction Toolkit 
 
-## Resources/Inspiration
 
-![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png) ![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
 
