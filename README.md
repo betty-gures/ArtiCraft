@@ -8,43 +8,6 @@
 * I am a scholar among the Beyond Inclusion Scholarship program, offering XR Education
 
 ***
-
-![image](https://user-images.githubusercontent.com/60520606/159128271-92556441-6668-4fa6-a548-7519c0c5ad94.png)
-
-
-* This repository will be updated on a regular pace, for one week (26th October 2022).
-* At the end of the week, a beautiful, running and error free VR protoype will be delivered. 
-
-
-***
-
-![image](https://user-images.githubusercontent.com/60520606/159128215-1d3daa78-beee-49ce-a498-3fd2bf06664a.png)
-
-### Project Name : Articraft
-
-***
-
-![image](https://user-images.githubusercontent.com/60520606/159128239-6a87b595-5976-4244-82cc-c11260967b71.png)
-
-
-### Project Owner: 
-
-[Betül Güreş](https://github.com/betty-gures)
-
-***
-
-![image](https://user-images.githubusercontent.com/60520606/159128452-a40a409f-35cd-4c27-8c0e-d7b51d2714e8.png)
-
-### Tools:
-- **Software**:
-
-  Unity, XR interaction Toolkit
-  
-- **Hardware**: 
-
-  Oculus Quest 2 
-
-
 ## Resources/Inspiration
 
 ![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png)             ![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
@@ -82,6 +45,46 @@ These are features that are nice to have, and that you might implement if you ha
 - The user shall add particles within gameplay
 - The system shall have a nice ui and ux, that is easy to navigate
 - There can be a free mode, in addition to the color pallet sugestions
+
+
+
+
+***
+
+![image](https://user-images.githubusercontent.com/60520606/159128271-92556441-6668-4fa6-a548-7519c0c5ad94.png)
+
+
+* This repository will be updated on a regular pace, for one week (26th October 2022).
+* At the end of the week, a beautiful, running and error free VR protoype will be delivered. 
+
+
+***
+
+![image](https://user-images.githubusercontent.com/60520606/159128215-1d3daa78-beee-49ce-a498-3fd2bf06664a.png)
+
+### Project Name : Articraft
+
+***
+
+![image](https://user-images.githubusercontent.com/60520606/159128239-6a87b595-5976-4244-82cc-c11260967b71.png)
+
+
+### Project Owner: 
+
+[Betül Güreş](https://github.com/betty-gures)
+
+***
+
+![image](https://user-images.githubusercontent.com/60520606/159128452-a40a409f-35cd-4c27-8c0e-d7b51d2714e8.png)
+
+### Tools:
+- **Software**:
+
+  Unity, XR interaction Toolkit
+  
+- **Hardware**: 
+
+  Oculus Quest 2 
 
 
 
