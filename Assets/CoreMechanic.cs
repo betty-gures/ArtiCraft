@@ -68,18 +68,16 @@ public class CoreMechanic : MonoBehaviour
             
 
             var distance = Mathf.Abs(_rightHand.transform.position.x - _leftHand.transform.position.x);
-            if (distance > 0.5)
+            if (distance > 0.2)
             {
-                _newCreation.transform.localScale += new Vector3(0.1f,0.1f,0.1f) * Time.deltaTime;
+                _newCreation.transform.localScale += new Vector3(0.1f,0.1f,0.1f) * 2 * Time.deltaTime;
             }
-            else if (distance < 0.5)
+            else if (distance < 0.2)
             {
-                _newCreation.transform.localScale -= new Vector3(0.1f,0.1f,0.1f) * Time.deltaTime;
+                if (_newCreation.transform.localScale.x >= 0.01f)
+                    _newCreation.transform.localScale -= new Vector3(0.1f,0.1f,0.1f) * 2 * Time.deltaTime;
             }
-            else if (_newCreation.transform.localScale.x < 0.01f && distance < 0.5)
-            {
-                _newCreation.transform.localScale = new Vector3(0.01f, 0.01f, 0.01f);
-            }
+            
         }
         else
         {
