@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
 using UnityEngine.XR.Interaction.Toolkit.UI;
+using Random = UnityEngine.Random;
 
 public class CoreMechanic : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class CoreMechanic : MonoBehaviour
         var instantiated = false;
         if (!instantiated)
         {
+            i = Random.Range(0, objToSpawn.Length);
             _newCreation = Instantiate(objToSpawn[i],  (_rightHand.transform.position + _leftHand.transform.position)/2 ,Quaternion.identity);
             _newCreation.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
             instantiated = true;
