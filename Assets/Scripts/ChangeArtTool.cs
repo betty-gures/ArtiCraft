@@ -14,7 +14,7 @@ public class ChangeArtTool : MonoBehaviour
     {
         _meshRendererTools.mesh = _modelsToChange[_currentModelIndex];
         _currentModelIndex++;
-        if (_currentModelIndex > _modelsToChange.Length)
+        if (_currentModelIndex >= _modelsToChange.Length)
         {
             _currentModelIndex = 0;
         }
