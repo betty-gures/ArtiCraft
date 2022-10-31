@@ -1,5 +1,8 @@
 # ArtiCraft - “*********************************************Tool for making art*********************************************”
 
+![image](https://user-images.githubusercontent.com/60520606/159118728-18c1c14d-97fe-4682-a17f-e947543c4a59.png)
+### [Project Gameplay Video Link](https://www.youtube.com/watch?v=dhvavS9k8TM&ab_channel=bet%C3%BClg%C3%BCre%C5%9F)
+
 # Part 1: Scoping
 
 ![image](https://user-images.githubusercontent.com/60520606/159128296-733f12f0-7c50-4bbb-aa16-22c3c055d897.png)
